@@ -52,7 +52,7 @@
     "@vitest/browser": "^4.1.4",
     "@vitest/browser-playwright": "^4.1.4",
     "@vitest/runner": "^4.1.4",
-    "ai": "^6.0.158",
+    "ai": "^6.0.162",
     "autoevals": "^0.0.132",
     "concurrently": "^9.2.1",
     "evalite": "^0.19.0",
