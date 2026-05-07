@@ -16,12 +16,12 @@
     "@phosphor-icons/react": "^2.1.10",
     "@streamdown/code": "^1.1.1",
     "agents": "*",
-    "ai": "^6.0.164",
+    "ai": "^6.0.175",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "streamdown": "^2.5.0",
     "workers-ai-provider": "*",
-    "zod": "^4.3.6"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "^1.32.3",
