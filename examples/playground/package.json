@@ -23,14 +23,14 @@
     "postal-mime": "^2.7.4",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "react-router-dom": "^7.14.1",
+    "react-router-dom": "^7.17.0",
     "shiki": "^4.0.2",
     "streamdown": "^2.5.0",
     "workers-ai-provider": "^3.1.11",
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.32.3",
+    "@cloudflare/vite-plugin": "^1.40.0",
     "@cloudflare/workers-types": "^4.20260416.2",
     "@tailwindcss/vite": "^4",
     "@types/node": "^25.6.0",
@@ -40,6 +40,6 @@
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2",
     "vite": "^8.0.8",
-    "wrangler": "^4.83.0"
+    "wrangler": "^4.98.0"
   }
 }
