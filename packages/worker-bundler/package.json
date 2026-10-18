@@ -38,7 +38,7 @@
     "esbuild-wasm": "0.28.0",
     "resolve.exports": "^2.0.3",
     "semver": "^7.8.3",
-    "smol-toml": "^1.6.1",
+    "smol-toml": "^1.9.0",
     "sucrase": "^3.35.1",
     "typescript": "^6.0.3"
   },
